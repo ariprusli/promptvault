@@ -1,4 +1,4 @@
-markdown# PromptVault
+# PromptVault
 
 A local prompt documentation manager built with React + Vite. Store, version, organize, and compare your AI prompts — all saved in your browser.
 
